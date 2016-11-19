@@ -1,0 +1,17 @@
+{
+  "name": "estudo",
+  "homepage": "https://github.com/esdesigner/estudo",
+  "authors": [
+    "elimar.pc@gmail.com <Eli425136mar>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
